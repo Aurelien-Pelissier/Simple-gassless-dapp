@@ -1,7 +1,7 @@
 # Building gassless Dapps With Ethers.js and biconomy
 This is a fork of the orginal Dapp from https://github.com/AsaoluElijah/first-dapp.
 
-Where the user can use it withour paying gas.
+Where the user can use it without paying gas.
 
 > Learn how to build your first Dapp with Ethers.js <br>
 > https://blog.logrocket.com/building-dapp-ethers-js/
