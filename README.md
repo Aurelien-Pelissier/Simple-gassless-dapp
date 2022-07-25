@@ -1,4 +1,4 @@
-# Building gassless Dapps With Ethers.js and biconomy
+# Building Gassless Dapps With Ethers.js and Biconomy
 This is a fork of the orginal Dapp from https://github.com/AsaoluElijah/first-dapp.
 
 Where the user can use it without paying gas.
