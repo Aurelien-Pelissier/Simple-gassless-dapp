@@ -1,7 +1,12 @@
+//https://blog.logrocket.com/building-dapp-ethers-js/
 const provider = new ethers.providers.Web3Provider(window.ethereum, "any");
 
+//import Biconomy  from "@biconomy/mexa";
+
+console.log(`Loaded Biconomy`);
+
 const usdc = {
-  address: "0x68ec573C119826db2eaEA1Efbfc2970cDaC869c4",
+  address: "0x3D249B8E3eA85F1094Be7701d0D703bA10805A7E",
   abi: [
     "function name() view returns (string)",
     "function symbol() view returns (string)",
